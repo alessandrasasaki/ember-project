@@ -1,0 +1,7 @@
+<div class="menu">
+  {{#each this.items as |item|}}
+    {{#link-to item.url class="button"}}
+    <div class="menu-item">{{item.symbol}}</div>
+    {{/link-to}}
+  {{/each}}
+</div>
