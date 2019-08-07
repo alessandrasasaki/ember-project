@@ -1,7 +1,7 @@
 # first ember project
 
-*this project was made with `ember-quickstart`
-*access: `http://localhost:4200/`
+* this project was made with `ember-quickstart`
+* access: `http://localhost:4200/`
 
 # impressions
 * easy to start with quickstart
